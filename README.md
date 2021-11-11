@@ -4,7 +4,7 @@ With Amazon SageMaker Processing jobs, you can leverage a simplified, managed ex
 
 A processing job downloads input from Amazon Simple Storage Service (Amazon S3), then uploads outputs to Amazon S3 during or after the processing job.
 
-<img src="./Processing-1.jpg">
+<img src="sagemaker_processing_3_patterns/Processing-1.jpg">
 
 This notebook shows how you can:
 
